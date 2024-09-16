@@ -1,6 +1,6 @@
 # House Price Prediction - README
 
-This repository contains the code and methodology used to predict house prices using the Ames Housing dataset. The project follows various machine learning practices, including data preprocessing, feature engineering, model selection, and evaluation. Below is an overview of the steps and challenges encountered throughout the project.
+This repository contains the code and methodology used to predict house prices using the dataset from Kaggle's "House Prices - Advanced Regression Techniques" competition. The project follows various machine learning practices, including data preprocessing, feature engineering, model selection, and evaluation. Below is an overview of the steps and challenges encountered throughout the project.
 
 ## Project Structure
 
